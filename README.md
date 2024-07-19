@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aengwo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... aengwodavis09@gmail.com
+- 👀 I’m interested in cloud engineering
+- 🌱 I’m currently learning Azure clod computing
+- 💞️ I’m looking to collaborate on IOT projects
+- 📫 How to reach me aengwodavis09@gmail.com
 
 <!---
 aengwo/aengwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
