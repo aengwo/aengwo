@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aengwo
 - 👀 I’m interested in cloud engineering
-- 🌱 I’m currently learning Azure clod computing
+- 🌱 I’m currently learning Azure cloud computing
 - 💞️ I’m looking to collaborate on IOT projects
 - 📫 How to reach me aengwodavis09@gmail.com
 
